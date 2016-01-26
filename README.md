@@ -13,4 +13,4 @@ How to test:
   $ ./torgrep.pl -p tests/all-tor-ips.txt tests/test-checkpoint-logfile.csv
 ```
 
-
+The speed was roughly 1 GByte/min. on a regular Debian Server (8GB RAM).
