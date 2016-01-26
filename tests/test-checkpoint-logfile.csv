@@ -1,0 +1,4 @@
+num;date;time;orig;type;action;alert;i/f_name;i/f_dir;product;log_sys_message;origin_id;ProductFamily;inzone;outzone;rule;rule_uid;rule_name;src;dst;proto;service;s_port
+1;17Jan2016;20:03:05;8.8.8.8;log;drop;;eth2-03;inbound;VPN-1 & FireWall-1;;zaafw1;Network;External;Internal;216;{353870AC-4C32-447C-8276-EE4054158EA7};;78.41.115.145;8.8.8.8;tcp;23;52895
+2;17Jan2016;20:03:05;8.8.8.8;log;drop;;eth2-03;inbound;VPN-1 & FireWall-1;;zaafw1;Network;External;Internal;216;{353870AC-4C32-447C-8276-EE4054158EA7};;78.41.115.145;8.8.8.9;tcp;23;59989
+3;17Jan2016;20:03:05;8.8.8.8;log;drop;;eth2-03;inbound;VPN-1 & FireWall-1;;zaafw1;Network;External;Internal;216;{353870AC-4C32-447C-8276-EE4054158EA7};;78.41.115.145;8.8.8.9;tcp;23;50945
